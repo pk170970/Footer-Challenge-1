@@ -31,10 +31,11 @@
 
 }
 .fab{
-    color: rgb(79, 72, 72);
+    color: #000000;
+ 
 }
 .social-media p{
-    margin: 12px;
+    margin: 10px 0;
 }
 .links{
     display: flex;
@@ -43,8 +44,9 @@
     width: 200px;
 }
 .links p{
-    margin: 12px;
+    margin: 10px 0;
 }
+
 .details{
     display: flex;
     flex-direction: column;
